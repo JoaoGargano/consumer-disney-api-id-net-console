@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsumerDisneyIdApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b688f10b76ec858599f7516e9293acc14df962ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsumerDisneyIdApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsumerDisneyIdApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
